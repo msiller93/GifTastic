@@ -1,0 +1,73 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+
+body{
+    background: black;
+}
+
+
+
+h1{
+	text-align: left;
+	font-family:  Georgia, Helvetica, Times, serif;
+	font-size: 50px;
+    color: rgb(55, 255, 0);
+    
+}
+
+
+
+
+button{
+
+	background-color: rgb(55, 255, 0);
+	color:blue;
+	border-radius: 5px;
+	padding:10px;
+    font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+	border: solid #096070 2px;
+
+
+}
+
+#add-gif{
+	background-color: rgb(55, 255, 0);
+	color: blue;
+	border-radius: 5px;
+	padding:10px;
+    font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+    border: solid blue 2px;
+}
+
+label{
+	font-family: Georgia, Helvetica, Times, serif;
+    font-size:16px;
+}
+
+
+
+
+img{
+	height: 200px;
+	width:300px;
+	display: inline-block;
+	border-radius: 10px;
+	border:solid rgb(55, 255, 0) 2px;
+	float: left;
+	/*clear: both;*/
+}
+
+p{
+	font-family: Georgia, helvetica, serif;
+	color: rgb(55, 255, 0);
+	margin-left:100px;
+	/*float:left;*/
+	clear: both;
+}
